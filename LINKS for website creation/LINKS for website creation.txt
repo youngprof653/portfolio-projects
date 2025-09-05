@@ -1,0 +1,15 @@
+LINKS: for website creation
+
+Alex The Analyst Portfolio Sample Website: https://alextheanalyst.github.io/
+
+Visual Studio Code Download: https://code.visualstudio.com/download
+
+HTML5Up - Website Code: https://html5up.net/
+
+Narrative Portfolio Example: https://wandb.ai/site/articles/classifying-tweets-with-wandb
+
+Wix Website Builder: https://www.wix.com/
+
+
+dont forget to download vscode or any one 
+after download a live server on the vscode
